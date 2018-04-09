@@ -1,0 +1,23 @@
+{
+  "name": "learn-amp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/locol23/learn-amp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/locol23/learn-amp/issues"
+  },
+  "homepage": "https://github.com/locol23/learn-amp#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
