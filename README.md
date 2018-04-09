@@ -16,7 +16,10 @@ npm i
 npm run start
 ```
 
+Access https://localhost:8080
+
 ## AMP validation check
+URL + #development=1
 
 http://localhost:8080/#development=1
 
